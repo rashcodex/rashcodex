@@ -34,6 +34,15 @@
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
+![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-%2300C7B7.svg?style=for-the-badge&logo=responsive-design)
+
+<div style="text-align: center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=RashCodes&count_private=true&show_icons=true&theme=prussian" width="400"> -->
+<br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashCodes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</div>
+
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Tech Life"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Tech Life" /></a></p><br><br>
