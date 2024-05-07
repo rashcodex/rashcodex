@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rashad (rashcodex)</h1>
 <h3 align="center">A ambitious Front-End Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashcodex&label=Profile%20views&color=0e75b6&style=flat" alt="rashcodex" /> </p>
-
 - 🔭 I’m currently working on **E-Commerce Web**
 
 - 🌱 I’m currently learning **Backend Side**
