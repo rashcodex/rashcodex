@@ -37,10 +37,6 @@
 ![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-%2300C7B7.svg?style=for-the-badge&logo=responsive-design)
 
 
-
-<h3 align="left">Support:</h3>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashcodex&show_icons=true&locale=en&layout=compact" alt="rashcodex" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashcodex&show_icons=true&locale=en" alt="rashcodex" /></p>
