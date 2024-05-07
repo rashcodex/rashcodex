@@ -1,7 +1,7 @@
 Rash is a Front-End Engineer with 2+ years of valuable experience in Front-End development, specializing in Next.js, React.js, and Redux, and skilled in REST API integration using both XML and JSON data formats. I’ve a strong foundation in web development technologies. I am passionate about staying up to date with the latest Front-End technologies and best practices.
 
 - 📫 How to reach me! 
-via Email: "mrashad905@gmail.com" | via WhatsApp: "+601121251990"
+via Email: "mrashad905@gmail.com" | via WhatsApp: "+971555069190"
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
