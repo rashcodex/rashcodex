@@ -1,4 +1,4 @@
-Rash is a Front-End Engineer with 1+ years of valuable experience in Front-End development, specializing in Next.js, React.js, and Redux, and skilled in REST API integration using both XML and JSON data formats. I’ve a strong foundation in web development technologies. I am passionate about staying up to date with the latest Front-End technologies and best practices.
+Rash is a Front-End Engineer with 2+ years of valuable experience in Front-End development, specializing in Next.js, React.js, and Redux, and skilled in REST API integration using both XML and JSON data formats. I’ve a strong foundation in web development technologies. I am passionate about staying up to date with the latest Front-End technologies and best practices.
 
 - 📫 How to reach me! 
 via Email: "mrashad905@gmail.com" | via WhatsApp: "+601121251990"
