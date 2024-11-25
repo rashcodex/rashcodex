@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashcodex&label=Profile%20views&color=0e75b6&style=flat" alt="rashcodex" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Web**
 - 🌱 I’m currently learning **Backend Side**
 - 👯 I’m looking to collaborate on **Dynamic Team**
 - 💬 Ask me about **React.js, Designs (Front-End Dev)**
