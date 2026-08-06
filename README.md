@@ -36,8 +36,8 @@
 ![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-%2300C7B7.svg?style=for-the-badge&logo=responsive-design)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashcodex&show_icons=true&locale=en&layout=compact" alt="rashcodex" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrashado&show_icons=true&locale=en&layout=compact" alt="mrashado" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashcodex&show_icons=true&locale=en" alt="rashcodex" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrashado&show_icons=true&locale=en" alt="mrashado" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashcodex&" alt="rashcodex" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrashado&" alt="mrashado" /></p>
