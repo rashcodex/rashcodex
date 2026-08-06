@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mohamed Rashad (rashcodex)</h1>
-<h3 align="center">A ambitious Front-End Engineer</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Rashad</h1>
+<h3 align="center">A ambitious Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashcodex&label=Profile%20views&color=0e75b6&style=flat" alt="rashcodex" /> </p>
 
 - 🌱 I’m currently learning **Backend Side**
 - 👯 I’m looking to collaborate on **Dynamic Team**
-- 💬 Ask me about **React.js, Designs (Front-End Dev)**
+- 💬 Ask me about **Technical Solutions Engineer | AI Agents | Claude | MCP | Building Scalable Digital Solutions.**
 - 📫 How to reach me **mrashad905@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rashadcodex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashadcodex" height="30" width="40" /></a>
-<a href="https://instagram.com/0rashad5u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0rashad5u" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrashado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrashado" height="30" width="40" /></a>
+<a href="https://instagram.com/mrashad5u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrashad5u" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
